@@ -10,8 +10,7 @@
 ## Deskripsi Project
 Repository ini dibuat untuk mendokumentasikan hasil pengerjaan Project Akhir Kelompok pada mata kuliah Algoritma dan Pemrograman Kelas B. Project ini diselesaikan menggunakan dua bahasa pemrograman secara setara, yaitu **Python** dan **R**.
 
-## Studi Kasus yang Diselesaikan
-Berikut adalah 6 program berbasis studi kasus yang wajib diselesaikan dalam project ini:
+## Tugas
 1. **Program 1:** Penghitungan Jumlah Kata dan Kalimat (Analisis Teks)
 2. **Program 2:** Manipulasi Objek String Kalimat
 3. **Program 3:** Penentuan Akar-Akar Persamaan Kuadrat
